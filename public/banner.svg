@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500">
+  <rect width="1500" height="500" fill="#10120f"/>
+  <rect x="96" y="150" width="180" height="180" rx="40" fill="#e2f56a"/>
+  <text x="186" y="278" text-anchor="middle" font-family="Georgia, serif" font-size="140" fill="#10120f">Q</text>
+  <text x="320" y="250" fill="#f4f1ea" font-family="Georgia, serif" font-size="96">Quay</text>
+  <text x="322" y="318" fill="#f0d7b0" font-family="Georgia, serif" font-size="36" font-style="italic">One key. Settled on Solana.</text>
+  <text x="322" y="376" fill="#e2f56a" font-family="ui-monospace, monospace" font-size="24">$QUAY</text>
+</svg>
